@@ -65,7 +65,7 @@
       <a
         v-if="isDemo"
         target="_blank"
-        href="https://github.com/DrrWebDeveloper/signfo"
+        href="https://github.com/DrWebDeveloper/signfo"
         class="white-button flex items-center space-x-1 w-full"
       >
         <IconBrandGithub />

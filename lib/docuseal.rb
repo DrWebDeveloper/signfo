@@ -7,11 +7,11 @@ module Docuseal
   ENQUIRIES_URL = "#{PRODUCT_URL}/enquiries".freeze
   PRODUCT_NAME = 'Signfo'
   DEFAULT_APP_URL = ENV.fetch('APP_URL', 'http://localhost:3000')
-  GITHUB_URL = 'https://github.com/DrrWebDeveloper/signfo'
-  DISCORD_URL = 'https://discord.gg/qygYCDGck9'
-  TWITTER_URL = 'https://twitter.com/docusealco'
-  TWITTER_HANDLE = '@docusealco'
-  CHATGPT_URL = 'https://chatgpt.com/g/g-9hg8AAw0r-docuseal'
+  GITHUB_URL = 'https://github.com/DrWebDeveloper/signfo'
+  DISCORD_URL = 'https://discord.gg'
+  TWITTER_URL = 'https://twitter.com/drwebdeveloper'
+  TWITTER_HANDLE = '@drwebdeveloper'
+  CHATGPT_URL = 'https://chatgpt.com'
   SUPPORT_EMAIL = 'support@signfo.com'
   HOST = ENV.fetch('HOST', 'localhost')
   CONSOLE_URL = if Rails.env.development?
