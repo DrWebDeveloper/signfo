@@ -1,10 +1,10 @@
 <h1 align="center" style="border-bottom: none">
   <div>
     <a href="https://www.signfo.com">
-      <img  alt="DocuSeal" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" />
+      <img  alt="Signfo" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" />
       <br>
     </a>
-    DocuSeal
+    Signfo
   </div>
 </h1>
 <h3 align="center">
@@ -89,9 +89,9 @@ sudo HOST=your-domain-name.com docker compose up
 ```
 
 ## For Businesses
-### Integrate seamless document signing into your web or mobile apps with DocuSeal
+### Integrate seamless document signing into your web or mobile apps with Signfo
 
-At Signfo we have expertise and technologies to make documents creation, filling, signing and processing seamlessly integrated with your product. We specialize in working with various industries, including **Banking, Healthcare, Transport, Real Estate, eCommerce, KYC, CRM, and other software products** that require bulk document signing. By leveraging DocuSeal, we can assist in reducing the overall cost of developing and processing electronic documents while ensuring security and compliance with local electronic document laws.
+At Signfo we have expertise and technologies to make documents creation, filling, signing and processing seamlessly integrated with your product. We specialize in working with various industries, including **Banking, Healthcare, Transport, Real Estate, eCommerce, KYC, CRM, and other software products** that require bulk document signing. By leveraging Signfo, we can assist in reducing the overall cost of developing and processing electronic documents while ensuring security and compliance with local electronic document laws.
 
 [Book a Meeting](https://www.signfo.com/contact)
 
