@@ -58,7 +58,7 @@ module Submissions
     end
 
     def sign_reason
-      'Signed with DocuSeal.co'
+      'Signed with Signfo.com'
     end
   end
 end
