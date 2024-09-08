@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
   <div>
-    <a href="https://www.docuseal.co">
+    <a href="https://www.signfo.com">
       <img  alt="DocuSeal" src="https://github.com/docusealco/docuseal/assets/5418788/c12cd051-81cd-4402-bc3a-92f2cfdc1b06" width="80" />
       <br>
     </a>
@@ -25,12 +25,12 @@
 Signfo is an open source platform that provides secure and efficient digital document signing and processing. Create PDF forms to have them filled and signed online on any device with an easy-to-use, mobile-optimized web tool.
 </p>
 <h2 align="center">
-  <a href="https://demo.docuseal.co">✨ Live Demo</a>
+  <a href="https://demo.signfo.com">✨ Live Demo</a>
   <span>|</span>
-  <a href="https://docuseal.co/sign_up">☁️ Try in Cloud</a>
+  <a href="https://signfo.com/sign_up">☁️ Try in Cloud</a>
 </h2>
 
-[![Demo](https://github.com/docusealco/docuseal/assets/5418788/d8703ea3-361a-423f-8bfe-eff1bd9dbe14)](https://demo.docuseal.co)
+[![Demo](https://github.com/docusealco/docuseal/assets/5418788/d8703ea3-361a-423f-8bfe-eff1bd9dbe14)](https://demo.signfo.com)
 
 ## Features
 - PDF form fields builder (WYSIWYG)
@@ -54,11 +54,11 @@ Signfo is an open source platform that provides secure and efficient digital doc
 - Conditional fields and formulas
 - Bulk send with CSV, XLSX spreadsheet import
 - SSO / SAML
-- Template creation with HTML API ([Guide](https://www.docuseal.co/guides/create-pdf-document-fillable-form-with-html-api))
-- Template creation with PDF or DOCX and field tags API ([Guide](https://www.docuseal.co/guides/use-embedded-text-field-tags-in-the-pdf-to-create-a-fillable-form))
-- Embedded signing form ([React](https://github.com/docusealco/docuseal-react), [Vue](https://github.com/docusealco/docuseal-vue), [Angular](https://github.com/docusealco/docuseal-angular) or [JavaScript](https://www.docuseal.co/docs/embedded))
-- Embedded document form builder ([React](https://github.com/docusealco/docuseal-react), [Vue](https://github.com/docusealco/docuseal-vue), [Angular](https://github.com/docusealco/docuseal-angular) or [JavaScript](https://www.docuseal.co/docs/embedded))
-- [Learn more](https://www.docuseal.co/pricing)
+- Template creation with HTML API ([Guide](https://www.signfo.com/guides/create-pdf-document-fillable-form-with-html-api))
+- Template creation with PDF or DOCX and field tags API ([Guide](https://www.signfo.com/guides/use-embedded-text-field-tags-in-the-pdf-to-create-a-fillable-form))
+- Embedded signing form ([React](https://github.com/docusealco/docuseal-react), [Vue](https://github.com/docusealco/docuseal-vue), [Angular](https://github.com/docusealco/docuseal-angular) or [JavaScript](https://www.signfo.com/docs/embedded))
+- Embedded document form builder ([React](https://github.com/docusealco/docuseal-react), [Vue](https://github.com/docusealco/docuseal-vue), [Angular](https://github.com/docusealco/docuseal-angular) or [JavaScript](https://www.signfo.com/docs/embedded))
+- [Learn more](https://www.signfo.com/pricing)
 
 ## Deploy
 
@@ -93,7 +93,7 @@ sudo HOST=your-domain-name.com docker compose up
 
 At Signfo we have expertise and technologies to make documents creation, filling, signing and processing seamlessly integrated with your product. We specialize in working with various industries, including **Banking, Healthcare, Transport, Real Estate, eCommerce, KYC, CRM, and other software products** that require bulk document signing. By leveraging DocuSeal, we can assist in reducing the overall cost of developing and processing electronic documents while ensuring security and compliance with local electronic document laws.
 
-[Book a Meeting](https://www.docuseal.co/contact)
+[Book a Meeting](https://www.signfo.com/contact)
 
 ## License
 
@@ -102,6 +102,6 @@ Unless otherwise noted, all files © 2023 Signfo LLC.
 
 ## Tools
 
-- [Signature Maker](https://www.docuseal.co/online-signature)
-- [Sign Document Online](https://www.docuseal.co/sign-documents-online)
-- [Fill PDF Online](https://www.docuseal.co/fill-pdf)
+- [Signature Maker](https://www.signfo.com/online-signature)
+- [Sign Document Online](https://www.signfo.com/sign-documents-online)
+- [Fill PDF Online](https://www.signfo.com/fill-pdf)

@@ -75,7 +75,7 @@
       </a>
       <a
         v-if="isDemo"
-        href="https://docuseal.co/sign_up"
+        href="https://signfo.com/sign_up"
         class="white-button flex items-center space-x-1 w-full"
       >
         <IconLogin />
@@ -90,7 +90,7 @@
     >
       {{ t('signed_with') }}
       <a
-        href="https://www.docuseal.co/start"
+        href="https://www.signfo.com/start"
         target="_blank"
         class="underline"
       >DocuSeal</a> - {{ t('open_source_documents_software') }}

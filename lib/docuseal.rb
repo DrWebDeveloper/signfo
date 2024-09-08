@@ -2,7 +2,7 @@
 
 module Docuseal
   URL_CACHE = ActiveSupport::Cache::MemoryStore.new
-  PRODUCT_URL = 'https://www.docuseal.co'
+  PRODUCT_URL = 'https://www.signfo.com'
   NEWSLETTER_URL = "#{PRODUCT_URL}/newsletters".freeze
   ENQUIRIES_URL = "#{PRODUCT_URL}/enquiries".freeze
   PRODUCT_NAME = 'DocuSeal'
@@ -12,26 +12,26 @@ module Docuseal
   TWITTER_URL = 'https://twitter.com/docusealco'
   TWITTER_HANDLE = '@docusealco'
   CHATGPT_URL = 'https://chatgpt.com/g/g-9hg8AAw0r-docuseal'
-  SUPPORT_EMAIL = 'support@docuseal.co'
+  SUPPORT_EMAIL = 'support@signfo.com'
   HOST = ENV.fetch('HOST', 'localhost')
   CONSOLE_URL = if Rails.env.development?
                   'http://console.localhost.io:3001'
                 elsif ENV['MULTITENANT'] == 'true'
                   "https://console.#{HOST}"
                 else
-                  'https://console.docuseal.co'
+                  'https://console.signfo.com'
                 end
   CLOUD_URL = if Rails.env.development?
                 'http://localhost:3000'
               else
-                'https://docuseal.co'
+                'https://signfo.com'
               end
   CDN_URL = if Rails.env.development?
               'http://localhost:3000'
             elsif ENV['MULTITENANT'] == 'true'
               "https://cdn.#{HOST}"
             else
-              'https://cdn.docuseal.co'
+              'https://cdn.signfo.com'
             end
 
   CERTS = JSON.parse(ENV.fetch('CERTS', '{}'))
